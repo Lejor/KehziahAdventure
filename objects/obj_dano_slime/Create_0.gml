@@ -1,0 +1,1 @@
+atual = obj_player;
